@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# You can start the following project using command
+ You can start the following project using command
 ###   `NODE_OPTIONS=--openssl-legacy-provider npm start`
 
  This project is built using react for functionalities and tailwindcss for styling
