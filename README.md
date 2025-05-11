@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 
+# You can start the following project using command
+###   `NODE_OPTIONS=--openssl-legacy-provider npm start`
+
+ This project is built using react for functionalities and tailwindcss for styling
+
+ # A show case to:
+ How sum of the functions in react works and and how can use them in your own project
+
+ This is just a simple showcase to make people understand that how these functions can be helpful in there big-projects
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
